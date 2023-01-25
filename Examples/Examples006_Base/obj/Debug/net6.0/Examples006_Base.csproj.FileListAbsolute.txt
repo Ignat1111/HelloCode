@@ -1,0 +1,15 @@
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.exe
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.deps.json
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.runtimeconfig.json
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.dll
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.pdb
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.csproj.AssemblyReference.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.AssemblyInfoInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.AssemblyInfo.cs
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.dll
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\refint\Examples006_Base.dll
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.pdb
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.genruntimeconfig.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\obj\Debug\net6.0\ref\Examples006_Base.dll
