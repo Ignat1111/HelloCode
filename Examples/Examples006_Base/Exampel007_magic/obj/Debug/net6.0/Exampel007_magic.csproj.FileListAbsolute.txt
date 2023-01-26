@@ -1,0 +1,15 @@
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\bin\Debug\net6.0\Exampel007_magic.exe
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\bin\Debug\net6.0\Exampel007_magic.deps.json
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\bin\Debug\net6.0\Exampel007_magic.runtimeconfig.json
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\bin\Debug\net6.0\Exampel007_magic.dll
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\bin\Debug\net6.0\Exampel007_magic.pdb
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.csproj.AssemblyReference.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.AssemblyInfoInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.AssemblyInfo.cs
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.csproj.CoreCompileInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.dll
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\refint\Exampel007_magic.dll
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.pdb
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\Exampel007_magic.genruntimeconfig.cache
+C:\Users\Игнат\Desktop\Gikbriins\Знакомство с языками программирования (лекции)#!\Examples\Examples006_Base\Exampel007_magic\obj\Debug\net6.0\ref\Exampel007_magic.dll
